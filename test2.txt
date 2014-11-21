@@ -1,2 +1,4 @@
 test git file2 1
 test branch b1
+test branch b2
+test branch b3
